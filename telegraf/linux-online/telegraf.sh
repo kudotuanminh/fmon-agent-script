@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TELEGRAF_VER="1.29.4-1"
+TELEGRAF_VER="1.31.1-1"
 DEB_URL="https://dl.influxdata.com/telegraf/releases/telegraf_${TELEGRAF_VER}_amd64.deb"
 RPM_URL="https://dl.influxdata.com/telegraf/releases/telegraf-${TELEGRAF_VER}.x86_64.rpm"
 
