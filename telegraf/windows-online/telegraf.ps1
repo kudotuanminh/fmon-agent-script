@@ -9,7 +9,7 @@ param (
     [string]$config
 )
 
-$TELEGRAF_VER = "1.27.1"
+$TELEGRAF_VER = "1.31.2"
 $TELEGRAF_URL = "https://dl.influxdata.com/telegraf/releases/telegraf-" + $TELEGRAF_VER + "_windows_amd64.zip"
 
 function usage() {
